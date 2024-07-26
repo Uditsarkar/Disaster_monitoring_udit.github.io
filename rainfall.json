@@ -1,0 +1,135 @@
+[
+  {
+    "Date": "07-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 79.2,
+    "Gross Inflow (MCM)": 1.21,
+    "Spill (MCM)": 1.21
+  },
+  {
+    "Date": "08-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 278.4,
+    "Gross Inflow (MCM)": 11.32,
+    "Spill (MCM)": 11.32
+  },
+  {
+    "Date": "09-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 442.6,
+    "Gross Inflow (MCM)": 19.67,
+    "Spill (MCM)": 19.67
+  },
+  {
+    "Date": "10-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 160.9,
+    "Gross Inflow (MCM)": 9.75,
+    "Spill (MCM)": 9.75
+  },
+  {
+    "Date": "11-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 46.5,
+    "Gross Inflow (MCM)": 6.08,
+    "Spill (MCM)": 6.08
+  },
+  {
+    "Date": "12-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 75,
+    "Gross Inflow (MCM)": 6.59,
+    "Spill (MCM)": 6.59
+  },
+  {
+    "Date": "13-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 151.7,
+    "Gross Inflow (MCM)": 8.1,
+    "Spill (MCM)": 8.1
+  },
+  {
+    "Date": "14-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 205.4,
+    "Gross Inflow (MCM)": 14.5,
+    "Spill (MCM)": 14.5
+  },
+  {
+    "Date": "15-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 304.9,
+    "Gross Inflow (MCM)": 18.48,
+    "Spill (MCM)": 18.48
+  },
+  {
+    "Date": "16-Aug-18",
+    "Reservoir level (m)": 775,
+    "Rainfall (mm)": 343.9,
+    "Gross Inflow (MCM)": 17.99,
+    "Spill (MCM)": 18.59
+  },
+  {
+    "Date": "17-Aug-18",
+    "Reservoir level (m)": 774.6,
+    "Rainfall (mm)": 182.3,
+    "Gross Inflow (MCM)": 14.19,
+    "Spill (MCM)": 14.59
+  },
+  {
+    "Date": "18-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 161.6,
+    "Gross Inflow (MCM)": 4.24,
+    "Spill (MCM)": 3.24
+  },
+  {
+    "Date": "19-Aug-18",
+    "Reservoir level (m)": 774.5,
+    "Rainfall (mm)": 77.4,
+    "Gross Inflow (MCM)": 0,
+    "Spill (MCM)": 2.21
+  },
+  {
+    "Date": "20-Aug-18",
+    "Reservoir level (m)": 774.65,
+    "Rainfall (mm)": 88,
+    "Gross Inflow (MCM)": 2.36,
+    "Spill (MCM)": 2.21
+  },
+  {
+    "Date": "21-Aug-18",
+    "Reservoir level (m)": 774.8,
+    "Rainfall (mm)": 60.3,
+    "Gross Inflow (MCM)": 1.61,
+    "Spill (MCM)": 1.46
+  },
+  {
+    "Date": "22-Aug-18",
+    "Reservoir level (m)": 774.85,
+    "Rainfall (mm)": 80.4,
+    "Gross Inflow (MCM)": 0.79,
+    "Spill (MCM)": 0.74
+  },
+  {
+    "Date": "23-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 79.2,
+    "Gross Inflow (MCM)": 0.79,
+    "Spill (MCM)": 0.74
+  },
+  {
+    "Date": "24-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 60.3,
+    "Gross Inflow (MCM)": 1.21,
+    "Spill (MCM)": 1.21
+  },
+  {
+    "Date": "25-Aug-18",
+    "Reservoir level (m)": 775.6,
+    "Rainfall (mm)": 50.3,
+    "Gross Inflow (MCM)": 1.21,
+    "Spill (MCM)": 1.21
+  }
+]

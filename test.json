@@ -1,0 +1,29 @@
+[
+    {'admin1': 'Kerala', 
+    'lat': '10.41667', 
+    'lon': '76.5', 
+    'country_code3': 'IND', 
+    'geonameid': '1267254', 
+    'place_name': 'State of Kerala', 
+    'feature_class': 'A', 
+    'feature_code': 'ADM1'
+    },
+    {'admin1': 'Kerala', 
+    'lat': '10.41667', 
+    'lon': '76.5', 
+    'country_code3': 'IND', 
+    'geonameid': '1267254', 
+    'place_name': 'State of Kerala', 
+    'feature_class': 'A', 
+    'feature_code': 'ADM1'
+    },
+    {'admin1': 'Kerala', 
+    'lat': '10.41667', 
+    'lon': '76.5', 
+    'country_code3': 'IND', 
+    'geonameid': '1267254', 
+    'place_name': 'State of Kerala', 
+    'feature_class': 'A', 
+    'feature_code': 'ADM1'
+    }
+]

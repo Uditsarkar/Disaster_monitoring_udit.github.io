@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Statistics View</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/webix@7.2.5/webix.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/webix@7.2.5/webix.css" />
+</head>
+<body>
+    <div id="map" style="height: 400px; width: 100%;"></div>
+    <canvas id="pieChart" width="400" height="400"></canvas>
+    <canvas id="barChart" width="400" height="400"></canvas>
+    <div id="tweetsTable" style="height: 400px; width: 100%;"></div>
+    
+    <script src="path_to_your_stats_controller.js"></script>
+    <script>
+        // Initialize the Statistics Controller
+        StatsCtrl.onViewReady();
+    </script>
+</body>
+</html>
+
